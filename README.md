@@ -1,10 +1,10 @@
 ### Olá, eu sou o Cauã, programador back-end!
 
 <a href="https://github.com/dcauav/">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=dcauav&show_icons=true&theme=dracula" />
+  <img width="50%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=dcauav&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/dcauav/">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcauav&layout=compact&theme=dracula" />
+  <img width="50%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcauav&layout=compact&theme=dracula" />
 </a>
 
 ## Contatos
