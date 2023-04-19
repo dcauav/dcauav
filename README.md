@@ -1,5 +1,4 @@
 ### Olá, eu sou o Cauã, programador back-end!
-🕑 Atualmente procurando emprego.
 
 🎯 Buscando me tornar um dev fullstack.
 
