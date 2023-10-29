@@ -4,7 +4,7 @@
 
 ##
 
-<div align="center">
+<div align="start">
 <a href="https://github.com/dcauav/">
   <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=dcauav&show_icons=true&theme=dracula&count_private=true" />
 </a>
