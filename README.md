@@ -1,8 +1,5 @@
-### Olá, eu sou o Cauã, programador back-end!
-
-🎯 Buscando me tornar um dev fullstack.
-
-##
+### Olá, eu sou o Cauã!
+## Programador Fullstack
 
 <div align="start">
 <a href="https://github.com/dcauav/">
