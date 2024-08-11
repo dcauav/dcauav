@@ -1,11 +1,11 @@
-### Olá, eu sou o Cauã!
+### Olá, meu nome é Cauã!
 #### Programador Fullstack
 
 ##
 <div align="start">
-<a href="https://github.com/dcauav/">
-  <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=dcauav&show_icons=true&theme=dracula&count_private=true" />
-</a>
+  <a href="https://github.com/dcauav/">
+    <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=dcauav&show_icons=true&theme=dracula&count_private=true" />
+  </a>
 </div>
 
 ## Contatos
@@ -21,15 +21,4 @@
     <img height="40em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-## Linguagens
-
-<div align="center">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />                                               
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-</div>
-
 
